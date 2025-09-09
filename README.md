@@ -6,5 +6,5 @@ Este repositório contém os desafios e exercícios desenvolvidos na disciplina 
 
 - **ola_mundo/** → Primeiro programa em C (Olá, Mundo!).
 - **super_trunfo/**  
-  - `cadastro_cartas.c` → Cadastro das cartas de países.  
-  - `comparacao_cartas.c` → Comparação das cartas com atributos.  
+  -Cadastro das cartas de países.  
+  -Comparação das cartas com atributos.  
